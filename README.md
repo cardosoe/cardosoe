@@ -8,7 +8,7 @@ i've been learning to code for 2 years, looking for new oportunities and project
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [ezequielcardoso@gmail.com](mailto:ezequielcardoso@gmail.com)
-* 🧠  I'm learning PHP
+* 🧠  I'm learning PHP / Laravel
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
