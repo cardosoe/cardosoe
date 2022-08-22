@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 PHP developer
 -------------
 
-i've been learning to code for 2 years, looking for new oportunities and projects to collaborate. I started with front-end development but i what i really love is <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> PHP.
+i've been learning to code for 1 1/2 years, looking for new oportunities and projects to collaborate. I started with front-end development but i what i really love is <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> PHP.
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [ezequielcardoso@gmail.com](mailto:ezequielcardoso@gmail.com)
